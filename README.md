@@ -1,2 +1,1 @@
-# Prep_Course_Henry
-Repositorio de prueba del Modulo Nro 2
+Proyecto de prueba para github al escritorio.
